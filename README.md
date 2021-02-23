@@ -30,7 +30,7 @@ Sou um FullStack Developer :computer:
  <br/> :computer: &nbsp; Minha stack: Cobol, C, PHP, Pyhon, ReactJS, Node.js, React Native, Typescript
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias em geral
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/Linkedin-Helder-blue?style=flat&logo=linkedin&labelColor=blue&logoColor=white&link=https://www.linkedin.com/in/helderam/)](https://www.linkedin.com/in/helderam/) 
-| 
-[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:helder.morais@centralecom.com.br)](mailto:helder.morais@centralecom.com.br)
+|
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-35%209%209269%202578-25D366?style=for-the-badge&logo=whatsapp)](mailto:helder.morais@centralecom.com.br)
 
 
