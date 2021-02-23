@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img width="auto" src="https://github.com/helderam/banner.png">
+
+# Helder Morais
+
+## Olá pessoal 👋
+Desenvolvedor com muitos anos de experiência! 
+Mas sempre aprendendo coisas novas!
+
+Sou um FullStack Developer :computer:
+
+ :rocket:  &nbsp; Estou trabalhando na **Central E-Commerce**
+ <br/> :purple_heart: &nbsp; Estudando Front-end usando React
+ <br/> :blush: &nbsp; Posso te ajudar com PHP
+ <br/> :computer: &nbsp; Minha stack: Cobol, C, PHP, Pyhon, ReactJS, Node.js, React Native, Typescript
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias em geral
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-ThiagoMarinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/helderam/)](https://www.linkedin.com/in/helderam/) 
+| 
+[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:helder.morais@centralecom.com.br)](mailto:helder.morais@centralecom.com.br)
