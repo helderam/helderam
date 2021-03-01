@@ -11,9 +11,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<img width="auto" src="https://github.com/helderam.png">
+
 -->
 
-<img width="auto" src="https://github.com/helderam.png">
 
 # Olá pessoal 👋
 
