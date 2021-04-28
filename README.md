@@ -26,9 +26,9 @@ Mas sempre aprendendo coisas novas!
 Sou um FullStack Developer :computer:
 
  :rocket:  &nbsp; Estou trabalhando na **Central E-Commerce**
- <br/> :purple_heart: &nbsp; Estudando Front-end usando React no momento!
- <br/> :blush: &nbsp; Posso te ajudar com PHP
- <br/> :computer: &nbsp; Minha stack: Cobol, C, PHP, Pyhon, ReactJS, Node.js, React Native, Typescript
+ <br/> :purple_heart: &nbsp; Estudando NodeJS para o Back-end e React para o Front-end no momento!
+ <br/> :blush: &nbsp; Posso te ajudar com PHP e Javascript
+ <br/> :computer: &nbsp; Minha stack: Cobol, C, PHP, Pyhon, ReactJS, NodeJS, React Native, Typescript
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias em geral
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/Linkedin-Helder-blue?style=flat&logo=linkedin&labelColor=blue&logoColor=white&link=https://www.linkedin.com/in/helderam/)](https://www.linkedin.com/in/helderam/) 
 |
